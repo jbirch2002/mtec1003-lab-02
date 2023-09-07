@@ -201,9 +201,11 @@ DON'T HAVE BOOK; NO ANSWER
 ----------
 1. Use less/more command if the length of the file is significantly longer than can easily be navigated in the terminal window.
 
-2. Use head when you want to view just the header of the file.
+2. Use cat to view the contents of a file, but you can do a lot more with it.
 
-3. Use tail when you want to view just the end of the file.
+3. Use head when you want to view just the header of the file.
+
+4. Use tail when you want to view just the end of the file.
 
 
 ==========
